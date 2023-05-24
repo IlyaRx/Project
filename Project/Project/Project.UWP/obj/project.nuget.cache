@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aVFMFC1l3Gto5hpAKxHeNCjcPKuv1ntZolwQSFyJRKuoJQR8BV0AxqN+BTTaFstMlJrp3aXj0XXJ+3bJE6pc0Q==",
+  "dgSpecHash": "xGY9DcrAPhiSwhp71Y2ic6VTd5nSR/yHmQJcyFXoa0qLs+0eeta54v/NmVhBtZ+mfwzqfATlleJQuDcT+6pyiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\проект\\Project\\Project\\Project\\Project.UWP\\Project.UWP.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,12 @@
     "C:\\Users\\user\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.8-rel-29722-00\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.8-rel-29722-00.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.12\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.12\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.uwp\\2.88.3\\skiasharp.nativeassets.uwp.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.views\\2.88.3\\skiasharp.views.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.views.forms\\2.88.3\\skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

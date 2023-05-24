@@ -61,3 +61,15 @@ C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Proj
 C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
 C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.pdb
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\libEGL.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\libGLESv2.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\libSkiaSharp.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\zlib1.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.Views.Interop.UWP.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.Views.UWP.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.Views.UWP.pdb
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\SkiaSharp.Views.Forms.pdb
+C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll

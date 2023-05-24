@@ -31,6 +31,33 @@
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp\2.88.3\lib\uap10.0.16299\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libEGL.dll">
+      <PackagePath>libEGL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libGLESv2.dll">
+      <PackagePath>libGLESv2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\zlib1.dll">
+      <PackagePath>zlib1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\SkiaSharp.Views.Interop.UWP.dll">
+      <PackagePath>SkiaSharp.Views.Interop.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views\2.88.3\lib\uap10.0\SkiaSharp.Views.UWP.dll">
+      <PackagePath>SkiaSharp.Views.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views.forms\2.88.3\lib\uap10.0\SkiaSharp.Views.Forms.dll">
+      <PackagePath>SkiaSharp.Views.Forms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>

@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RXnXAywrdtgJGO39NO0Wybjc+T5zQQgzAc9aHUFC6FxIM9Jgd/hPLKcLrPxoFHNLwVxB+MIoilVmNLPbNDxl6Q==",
+  "dgSpecHash": "iW41wgFD/8uHlzV85PJ+qoWof+8xXEC2uJBNtmhD2bDfMIdpCKfmoDa6yZoiwi/juwzoVjevhhsK3DU+W+ZIrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\проект\\Project\\Project\\Project\\Project.Android\\Project.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.android\\2.88.3\\skiasharp.nativeassets.android.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.views\\2.88.3\\skiasharp.views.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.views.forms\\2.88.3\\skiasharp.views.forms.2.88.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

@@ -30,17 +30,53 @@
     <AppXManifest Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:15:37.402</Modified>
+      <Modified>2023-05-24T21:15:09.070</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\Project.UWP.exe">
       <PackagePath>entrypoint\Project.UWP.exe</PackagePath>
-      <Modified>2023-05-23T11:15:25.181</Modified>
+      <Modified>2023-05-24T21:14:59.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp\2.88.3\lib\uap10.0.16299\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+      <Modified>2022-10-03T22:36:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libEGL.dll">
+      <PackagePath>libEGL.dll</PackagePath>
+      <Modified>2022-10-03T22:36:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libGLESv2.dll">
+      <PackagePath>libGLESv2.dll</PackagePath>
+      <Modified>2022-10-03T22:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
+      <Modified>2022-10-03T22:36:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.nativeassets.uwp\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\zlib1.dll">
+      <PackagePath>zlib1.dll</PackagePath>
+      <Modified>2022-10-03T22:40:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views\2.88.3\runtimes\win10-x64\nativeassets\uap10.0\SkiaSharp.Views.Interop.UWP.dll">
+      <PackagePath>SkiaSharp.Views.Interop.UWP.dll</PackagePath>
+      <Modified>2022-10-03T22:36:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views\2.88.3\lib\uap10.0\SkiaSharp.Views.UWP.dll">
+      <PackagePath>SkiaSharp.Views.UWP.dll</PackagePath>
+      <Modified>2022-10-03T22:36:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\skiasharp.views.forms\2.88.3\lib\uap10.0\SkiaSharp.Views.Forms.dll">
+      <PackagePath>SkiaSharp.Views.Forms.dll</PackagePath>
+      <Modified>2022-10-03T22:36:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T19:38:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -68,7 +104,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project\bin\Debug\netstandard2.0\Project.dll">
       <PackagePath>Project.dll</PackagePath>
-      <Modified>2023-05-23T12:15:50.473</Modified>
+      <Modified>2023-05-24T21:37:28.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -85,153 +121,153 @@
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.699</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.814</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.830</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.845</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.947</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:55.982</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.014</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.098</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.121</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.133</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.349</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.363</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.489</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.500</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.509</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.518</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.656</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.666</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.676</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.695</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.814</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.864</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.896</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:56.996</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:57.003</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:57.014</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-23T11:02:57.030</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2023-05-23T11:02:57.149</Modified>
+      <Modified>2023-05-23T02:45:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\Project.UWP.xr.xml">
       <PackagePath>Project.UWP.xr.xml</PackagePath>
-      <Modified>2023-05-23T11:15:24.798</Modified>
+      <Modified>2023-05-24T21:14:59.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-05-23T11:15:24.928</Modified>
+      <Modified>2023-05-24T21:14:59.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-05-23T11:15:24.928</Modified>
+      <Modified>2023-05-24T21:14:59.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -247,11 +283,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-23T11:15:28.181</Modified>
+      <Modified>2023-05-24T21:15:04.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\OneDrive\Рабочий стол\проект\Project\Project\Project\Project.UWP\bin\x64\Debug\Core\Project.UWP.exe">
       <PackagePath>Project.UWP.exe</PackagePath>
-      <Modified>2023-05-23T11:15:37.312</Modified>
+      <Modified>2023-05-24T21:15:08.938</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
