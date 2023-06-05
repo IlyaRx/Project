@@ -14,88 +14,74 @@ namespace Project
 {
     public partial class MainPage : ContentPage
     {
-            SKBitmap bitmap;
-            SKPath keyholePath = SKPath.ParseSvgPathData(
-                "M 300 130 L 250 350 L 450 350 L 400 130 A 70 70 0 1 0 300 130 Z"); // Изменить на нормальную фигуру
+        public IList<FrameRasp> frameRasps { get; set; }
+
+
+
         public MainPage()
         {
             InitializeComponent();
+            
+        }
 
-            SKCanvasView canvasView = new SKCanvasView();
-            canvasView.PaintSurface += OnCanvasViewPaintSurface;
+        protected override void OnAppearing()
+        {
+            frameRasps = new List<FrameRasp>();
 
-            Label hader = new Label
+            frameRasps.Add(new FrameRasp()
             {
-                Text = "Изменение на 23.02.23",
-                FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
-                HorizontalOptions = LayoutOptions.Start
-            };
+                Data = "02.02.03",
+                ButtonSourse = "Stub.png",
+                Raspisanie = "TestRaspisanie.jpg"
+            });
 
-            ImageButton imageButtonFrame = new ImageButton
+            frameRasps.Add(new FrameRasp()
             {
-                Source = "Stub.png",
-                HorizontalOptions = LayoutOptions.Center,
-                VerticalOptions = LayoutOptions.CenterAndExpand
-            };
-
-            Grid gridFrame = new Grid()
+                Data = "32.02.03",
+                ButtonSourse = "Stub.png",
+                Raspisanie = "TestRaspisanie.jpg"
+            });
+            frameRasps.Add(new FrameRasp()
             {
-                RowDefinitions =
-                {
-                    new RowDefinition { Height = new GridLength(1, GridUnitType.Star) },
-                    new RowDefinition { Height = new GridLength(1, GridUnitType.Star) }
-                }
-            };
-            gridFrame.Children.Add(hader, 0, 0);
-            gridFrame.Children.Add(imageButtonFrame, 0, 0);
-            gridFrame.Children.Add(canvasView, 0, 1);
-
-            Frame frameRasp = new Frame
+                Data = "42.02.03",
+                ButtonSourse = "Stub.png",
+                Raspisanie = "TestRaspisanie.jpg"
+            });
+            frameRasps.Add(new FrameRasp()
             {
-                Content = gridFrame,
-                BorderColor = Color.Gray,
-                BackgroundColor = Color.FromHex("#e1e1e1"),
-                CornerRadius = 8
-            };
+                Data = "52.02.03",
+                ButtonSourse = "Stub.png",
+                Raspisanie = "TestRaspisanie.jpg"
+            });
+            BindingContext = this;
 
-            Frame[] Frames = new Frame[] { frameRasp };
-            ListRasp.ItemsSource = Frames;
+            base.OnAppearing();
+        }
 
-            string resourceID = "TestRaspisanie.jpg";
-            Assembly assembly = GetType().GetTypeInfo().Assembly;
+        async void SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            FrameRasp frameRasp = e.CurrentSelection[0] as FrameRasp;
+            await DisplayAlert(frameRasp.Data, frameRasp.Raspisanie, "OK");
+        }
 
-            using (Stream stream = assembly.GetManifestResourceStream(resourceID))
-            {
-                bitmap = SKBitmap.Decode(stream);
-            }
+        private void Watch_Clicked(object sender, EventArgs e)
+        {
 
         }
-        void OnCanvasViewPaintSurface(object sender, SKPaintSurfaceEventArgs args)
+
+        private void Contact_Clicked(object sender, EventArgs e)
         {
-            SKImageInfo info = args.Info;
-            SKSurface surface = args.Surface;
-            SKCanvas canvas = surface.Canvas;
 
-            canvas.Clear();
+        }
 
-            // Set transform to center and enlarge clip path to window height
-            SKRect bounds;
-            keyholePath.GetTightBounds(out bounds);
+        private void Schedule_Clicked(object sender, EventArgs e)
+        {
 
-            canvas.Translate(info.Width / 2, info.Height / 2);
-            canvas.Scale(0.98f * info.Height / bounds.Height);
-            canvas.Translate(-bounds.MidX, -bounds.MidY);
+        }
 
-            // Set the clip path
-            canvas.ClipPath(keyholePath);
+        private void Bell_Clicked(object sender, EventArgs e)
+        {
 
-            // Reset transforms
-            canvas.ResetMatrix();
-
-            // Display monkey to fill height of window but maintain aspect ratio
-            canvas.DrawBitmap(bitmap,
-                new SKRect((info.Width - info.Height) / 2, 0,
-                           (info.Width + info.Height) / 2, info.Height));
         }
     }
 }
