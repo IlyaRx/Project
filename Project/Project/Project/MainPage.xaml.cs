@@ -64,14 +64,9 @@ namespace Project
             await DisplayAlert(frameRasp.Data, frameRasp.Raspisanie, "OK");
         }
 
-        private void Watch_Clicked(object sender, EventArgs e)
+        private async void Contact_Clicked(object sender, EventArgs e)
         {
-
-        }
-
-        private void Contact_Clicked(object sender, EventArgs e)
-        {
-
+            await Navigation.PushAsync(new Contacts(), false);
         }
 
         private void Schedule_Clicked(object sender, EventArgs e)

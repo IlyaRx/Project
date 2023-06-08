@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Project.MainPage">
+             x:Class="Project.MainPage"
+             NavigationPage.HasNavigationBar="False">
     <Grid BackgroundColor="White">
         <Grid.RowDefinitions>
             <RowDefinition Height="100*"/>
@@ -71,7 +72,7 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <ImageButton Grid.Column="0" BackgroundColor="Transparent" Margin="-5,-5,-5,-5 " Source="WatchWhite.png" Clicked="Watch_Clicked" />
+            <ImageButton Grid.Column="0" BackgroundColor="Transparent" Margin="-5,-5,-5,-5 " Source="WatchWhite.png"/>
             <ImageButton Grid.Column="1" BackgroundColor="Transparent" Margin="-5, -5, -5, -5"  Source="ContactGrey.png" Clicked="Contact_Clicked"/>
             <ImageButton Grid.Column="2" BackgroundColor="Transparent" Margin="-5, -10, -10, -15"  Source="ScheduleGrey.png" Clicked="Schedule_Clicked"/>
             <ImageButton Grid.Column="3" BackgroundColor="Transparent"  Margin="0, -5, -10, -18" Source="BellGrey.png" Clicked="Bell_Clicked"/>

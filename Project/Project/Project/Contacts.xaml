@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project.Contacts"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid BackgroundColor="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100*"/>
+                <RowDefinition Height="1100*"/>
+                <RowDefinition Height="100*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" BackgroundColor="#1e3685">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <ImageButton Grid.Column="2" BackgroundColor="Transparent" Padding="-10, -13, -20, -25" Source="Stub.png"/>
+            </Grid>
+
+            <Grid Grid.Row="2" BackgroundColor="#1e3685" Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <ImageButton Grid.Column="0" BackgroundColor="Transparent" Margin="-5,-5,-5,-5 " Source="WatchGrey.png" Clicked="ImageButton_Clicked"/>
+                <ImageButton Grid.Column="1" BackgroundColor="Transparent" Margin="-5, -5, -5, -5"  Source="ContactWhite.png"/>
+                <ImageButton Grid.Column="2" BackgroundColor="Transparent" Margin="-5, -10, -10, -15"  Source="ScheduleGrey.png"/>
+                <ImageButton Grid.Column="3" BackgroundColor="Transparent"  Margin="0, -5, -10, -18" Source="BellGrey.png"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
